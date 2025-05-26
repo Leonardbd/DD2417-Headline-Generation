@@ -1,4 +1,4 @@
-This repository is public for grading reasons.
+This repository is public for grading reasons. The full report is found in Language_Project.pdf
 # DD2417-Headline-Generation
 This is a small project for the KTH course DD2417 Language Engineering. It fine-tunes the model gpt-4.1-mini-2025-04-14 to optimize it for generating headlines for Swedish news articles.
 
