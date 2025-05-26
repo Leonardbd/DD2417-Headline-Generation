@@ -5,7 +5,7 @@ To install the necessary modules, run:
 pip install -r requirements.txt
 
 ## Preprocessing
-The final data for training, validation, and testing can be found in the "data" folder. If you want to jump straight to training, you can skip this step. However, if you’d like to preprocess the ClefKorpus dataset yourself, run the script process_data.py and split it into training, validation, and testing sets as needed.
+The final data for training, validation, and testing can be found in the "data" folder. If you want to jump straight to training, you can skip this step. However, if you’d like to preprocess the ClefKorpus dataset (https://kth-my.sharepoint.com/personal/jboye_ug_kth_se/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjboye%5Fug%5Fkth%5Fse%2FDocuments%2Fdatasets%2Fttclef%2Fttclefkorpus%2Etar&parent=%2Fpersonal%2Fjboye%5Fug%5Fkth%5Fse%2FDocuments%2Fdatasets%2Fttclef&ga=1) yourself, run the script process_data.py and split it into training, validation, and testing sets as needed.
 
 ## Training
 Run train.py. This script performs a grid search over the hyperparameters described in the report.
